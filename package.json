@@ -1,5 +1,5 @@
 {
-  "name": "gavant-ember-active-link",
+  "name": "@gavant/ember-active-link",
   "version": "0.0.2",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [

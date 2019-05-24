@@ -7,7 +7,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install gavant-ember-active-link
+ember install @gavant/ember-active-link
 ```
 
 
