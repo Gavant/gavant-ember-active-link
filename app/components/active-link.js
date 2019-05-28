@@ -1,1 +1,1 @@
-export { default } from 'gavant-ember-active-link/components/active-link';
+export { default } from '@gavant/ember-active-link/components/active-link';
